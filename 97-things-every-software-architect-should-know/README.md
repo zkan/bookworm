@@ -15,4 +15,4 @@ by Richard Monson-Haefel
 ### Index
 
 1. [Dont' Put Your Resume Ahead from the Requirements - Nitin Borwankar](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Don't%20Put%20Your%20Resume%20Ahead%20of%20the%20Requirements.md)
-
+2. [Simplify Essential Complexity; Diminish Accidental Complexity - Neal Ford](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Simplify%20Essential%20Complexity%3B%20Disminish%20Accidental%20Complexity.md)
