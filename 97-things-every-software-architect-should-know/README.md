@@ -16,3 +16,6 @@ by Richard Monson-Haefel
 
 1. [Dont' Put Your Resume Ahead from the Requirements - Nitin Borwankar](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Don't%20Put%20Your%20Resume%20Ahead%20of%20the%20Requirements.md)
 2. [Simplify Essential Complexity; Diminish Accidental Complexity - Neal Ford](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Simplify%20Essential%20Complexity%3B%20Disminish%20Accidental%20Complexity.md)
+3. [Chances Are, Your Biggest Problem Isn't Technical - Mark Ramm](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Chances%20Are%2C%20Your%20Biggest%20Problem%20Isn't%20Technical.md)
+4. [Commuication is King; Clarity and Leadership, Its Humble Servants - Mark Richards](https://github.com/prontotools/bookworm/blob/master/97-things-every-software-architect-should-know/Commuication%20is%20King%3B%20Clarity%20and%20Leadership%2C%20Its%20Humble%20Servants.md)
+
